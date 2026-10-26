@@ -20,3 +20,8 @@ const home=fs.readFileSync(path.join(out,'index.html'),'utf8');assert.match(home
 for(const name of ['favicon.svg','console.svg','checklist.svg','devices.svg','cost.svg','og.png','site.js','site.css'])assert.ok(fs.existsSync(path.join(out,'assets',name)),`Missing ${name}`);
 const content=fs.readFileSync(path.join(out,'privacy/index.html'),'utf8');assert.ok(content.includes('Advertising and Google Analytics are not enabled'));
 console.log(`PASS: ${htmls.length} pages, ${links} valid local links/assets, SEO tags, article schema, homepage filters, privacy notice.`);
+
+assert.match(home,/id="newswire-list"/,'Homepage needs linked headlines widget');
+assert.match(home,/id="newswire-status"/);
+assert.ok(fs.existsSync(path.join(process.cwd(),'scripts/update-headlines.mjs')));
+assert.ok(fs.existsSync(path.join(process.cwd(),'content/headlines.json')));

@@ -1,0 +1,33 @@
+name: Refresh tech headlines
+on:
+  schedule:
+    # Checks approximately every 30 minutes; actual GitHub start times may vary.
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: refresh-tech-headlines
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh publisher RSS headlines
+        run: node scripts/update-headlines.mjs
+      - name: Commit only changed headline data
+        run: |
+          git add content/headlines.json
+          if git diff --cached --quiet; then
+            echo "No new edition; nothing to commit."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: refresh linked tech headlines'
+          git push

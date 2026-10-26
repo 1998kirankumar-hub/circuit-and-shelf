@@ -8,6 +8,7 @@
 - About, privacy, contact and editorial disclosure pages
 - Responsive light/dark design, keyboard-friendly navigation, semantic HTML
 - Search/SEO metadata, structured data, social image and automatically generated sitemap, robots.txt and RSS feed after site URL is known
+- Automatically refreshed publisher headline links, checked approximately every 30 minutes by GitHub Actions (no copied story bodies; no Cloudflare rebuild per headline sync)
 - A `npm test` suite for generated pages and internal links
 
 ## Build and local preview
@@ -44,3 +45,7 @@ AI tools assisted article drafting, site development and research. The copy avoi
 
 ## Licence
 Site copy and graphics: All rights reserved to the site owner, subject to verification of any external references. Code: may be adapted by the site owner.
+
+## Headline automation
+
+Read [AUTO-HEADLINES.md](AUTO-HEADLINES.md). Scheduled GitHub Actions checks publisher RSS feeds roughly every 30 minutes; the homepage requests latest public JSON from the GitHub raw endpoint, separate from our manually edited articles. GitHub schedules can be delayed and the RSS publishers can have outages.

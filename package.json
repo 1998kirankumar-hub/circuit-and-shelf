@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
+    "refresh:headlines": "node scripts/update-headlines.mjs",
     "test": "node test.mjs",
     "check": "npm run build && npm test"
   },
