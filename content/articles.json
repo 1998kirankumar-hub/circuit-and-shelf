@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "ps5-vs-xbox-series-x-india",
+    "title": "PS5 vs Xbox Series X in India: choose the ecosystem, not the box",
+    "description": "A practical, hype-free guide to choosing between PlayStation 5 and Xbox Series X in India, with an emphasis on games, subscriptions, friends and long-term costs.",
+    "category": "Gaming",
+    "label": "Buyer's guide",
+    "date": "2026-10-26",
+    "readTime": "7 min",
+    "accent": "blue",
+    "feature": true,
+    "illustration": "console"
+  },
+  {
+    "slug": "used-console-buying-checklist-india",
+    "title": "Buying a used PS5 or Xbox in India? Take this checklist with you",
+    "description": "A practical inspection checklist for buying a second-hand gaming console: ports, controllers, disc drive, account access, warranty and safe payment.",
+    "category": "Gaming",
+    "label": "Practical checklist",
+    "date": "2026-10-26",
+    "readTime": "6 min",
+    "accent": "purple",
+    "feature": false,
+    "illustration": "checklist"
+  },
+  {
+    "slug": "gadget-upgrade-decision-framework",
+    "title": "The 30-day upgrade rule: a calmer way to buy expensive gadgets",
+    "description": "A reusable decision system for phones, laptops, watches and gaming gear that helps separate meaningful upgrades from launch-day excitement.",
+    "category": "Tech & Ownership",
+    "label": "Buying smarter",
+    "date": "2026-10-26",
+    "readTime": "6 min",
+    "accent": "orange",
+    "feature": false,
+    "illustration": "devices"
+  },
+  {
+    "slug": "console-gaming-hidden-costs-india",
+    "title": "The true cost of owning a console in India goes beyond the MRP",
+    "description": "A simple framework to estimate games, subscriptions, accessories, repairs, storage and resale before choosing your next gaming console.",
+    "category": "Guides",
+    "label": "Cost breakdown",
+    "date": "2026-10-26",
+    "readTime": "6 min",
+    "accent": "green",
+    "feature": false,
+    "illustration": "cost"
+  }
+]

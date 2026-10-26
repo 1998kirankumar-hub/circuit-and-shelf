@@ -1,0 +1,12 @@
+{
+  "name": "circuit-and-shelf",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node test.mjs",
+    "check": "npm run build && npm test"
+  },
+  "engines": { "node": ">=18" }
+}
