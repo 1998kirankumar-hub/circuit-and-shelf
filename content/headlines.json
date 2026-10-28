@@ -1,12 +1,54 @@
 {
-  "updatedAt": "2026-10-27T22:38:01.424Z",
+  "updatedAt": "2026-10-28T01:44:29.594Z",
   "items": [
+    {
+      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T23:04:49.000Z"
+    },
+    {
+      "title": "How to change and customize your Android Auto display",
+      "url": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T23:00:00.000Z"
+    },
+    {
+      "title": "Gemini Notebook for Android, iOS adds built-in audio recorder",
+      "url": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-27T22:44:07.000Z"
+    },
+    {
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T22:37:30.000Z"
+    },
     {
       "title": "The best ways to tell if someone is using AI glasses",
       "url": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-10-27T22:30:00.000Z"
+    },
+    {
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T22:22:32.000Z"
+    },
+    {
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T22:04:50.000Z"
     },
     {
       "title": "What are wrong number text scams, and how can you avoid them?",
@@ -16,6 +58,13 @@
       "publishedAt": "2026-10-27T22:00:00.000Z"
     },
     {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T21:50:04.000Z"
+    },
+    {
       "title": "Why is there a random arm taking over the X composer?",
       "url": "https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer/",
       "source": "Engadget",
@@ -23,18 +72,11 @@
       "publishedAt": "2026-10-27T21:35:22.000Z"
     },
     {
-      "title": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
-      "url": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
-      "source": "Engadget",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-10-27T21:26:20.000Z"
-    },
-    {
-      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
-      "url": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-27T21:13:59.000Z"
+      "publishedAt": "2026-10-27T21:31:14.000Z"
     },
     {
       "title": "The Sideload 049: The death of the browser",
@@ -42,48 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-10-27T20:30:00.000Z"
-    },
-    {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-27T20:25:55.000Z"
-    },
-    {
-      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-      "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-27T19:32:07.000Z"
-    },
-    {
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-27T18:49:08.000Z"
-    },
-    {
-      "title": "Google Nest Wifi router and point get October 2026 update",
-      "url": "https://9to5google.com/2026/10/27/nest-wifi-october-2026-update/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-27T18:08:07.000Z"
-    },
-    {
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-27T18:05:55.000Z"
-    },
-    {
-      "title": "Play One of the Highest-Rated Call of Duty Games Ever Today",
-      "url": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-10-27T18:00:00.000Z"
     }
   ]
 }
