@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-29T05:49:00.165Z",
+  "updatedAt": "2026-10-29T13:01:52.381Z",
   "items": [
+    {
+      "title": "DoorDash acquires Instacart in $17 billion delivery service merger",
+      "url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T12:24:06.000Z"
+    },
+    {
+      "title": "EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate",
+      "url": "https://www.engadget.com/2294413/easysmx-s10-lite-review/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T11:00:08.000Z"
+    },
+    {
+      "title": "Google had a very good, very bad Q3",
+      "url": "https://9to5google.com/2026/10/29/google-had-a-very-good-very-bad-q3/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-29T11:00:00.000Z"
+    },
+    {
+      "title": "Motorola has already confirmed its Signature 27 flagship is launching in November",
+      "url": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-29T11:00:00.000Z"
+    },
+    {
+      "title": "Apple and Google fined in South Korea over app store violations",
+      "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T10:42:26.000Z"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T09:41:58.000Z"
+    },
+    {
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-29T08:33:46.000Z"
+    },
     {
       "title": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
       "url": "https://blog.playstation.com/2026/10/28/20261029-ps5/",
@@ -16,13 +72,6 @@
       "publishedAt": "2026-10-29T02:00:00.000Z"
     },
     {
-      "title": "FCC chair wants to let prisons jam illegal cellphones",
-      "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T23:09:22.000Z"
-    },
-    {
       "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
       "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
       "source": "Ars Technica",
@@ -35,55 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-28T22:35:50.000Z"
-    },
-    {
-      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-      "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T22:17:15.000Z"
-    },
-    {
-      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
-      "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T20:31:43.000Z"
-    },
-    {
-      "title": "Some Pixel Watch users report a sudden decrease in battery life",
-      "url": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-28T20:28:44.000Z"
-    },
-    {
-      "title": "AMVR’s new head strap is my favorite way to keep cool with a Meta Quest 3 or 3S",
-      "url": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-28T20:20:00.000Z"
-    },
-    {
-      "title": "Alphabet reports Q3 2026 revenue of $127.6 billion",
-      "url": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-28T20:03:59.000Z"
-    },
-    {
-      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
-      "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T19:42:27.000Z"
-    },
-    {
-      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
-      "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T19:39:47.000Z"
     }
   ]
 }
