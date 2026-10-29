@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-28T19:53:28.821Z",
+  "updatedAt": "2026-10-29T00:00:15.252Z",
   "items": [
+    {
+      "title": "FCC chair wants to let prisons jam illegal cellphones",
+      "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-28T23:09:22.000Z"
+    },
+    {
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-28T22:51:15.000Z"
+    },
+    {
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-28T22:35:50.000Z"
+    },
+    {
+      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-28T22:17:15.000Z"
+    },
+    {
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-28T20:31:43.000Z"
+    },
+    {
+      "title": "Some Pixel Watch users report a sudden decrease in battery life",
+      "url": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-28T20:28:44.000Z"
+    },
+    {
+      "title": "AMVR’s new head strap is my favorite way to keep cool with a Meta Quest 3 or 3S",
+      "url": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-28T20:20:00.000Z"
+    },
+    {
+      "title": "Alphabet reports Q3 2026 revenue of $127.6 billion",
+      "url": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-28T20:03:59.000Z"
+    },
     {
       "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
       "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
@@ -16,74 +72,18 @@
       "publishedAt": "2026-10-28T19:39:47.000Z"
     },
     {
-      "title": "OpenAI now lets you text your Dot agent",
-      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T19:15:00.000Z"
-    },
-    {
-      "title": "Engadget is hiring writers!",
-      "url": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T19:05:46.000Z"
-    },
-    {
-      "title": "The Galaxy Ring got a new update just in time for a $75-off sale",
-      "url": "https://9to5google.com/2026/10/28/the-galaxy-ring-got-a-new-update-just-in-time-for-a-75-off-sale/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-28T19:05:02.000Z"
-    },
-    {
-      "title": "Sony's new see-through DualSense controllers let you game like its 1999",
-      "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T18:38:17.000Z"
-    },
-    {
-      "title": "Nothing Ear (3a) are ‘the best earbuds,’ and they’re back down to their lowest price ever",
-      "url": "https://9to5google.com/2026/10/28/nothing-ear-3a-deal-best-price-ever/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-28T18:10:00.000Z"
-    },
-    {
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
       "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-10-28T18:05:22.000Z"
+      "publishedAt": "2026-10-28T19:30:33.000Z"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know",
-      "url": "https://news.xbox.com/en-us/2026/10/28/call-of-duty-modern-warfare-4-and-call-of-duty-warzone-season-1-all-you-need-to-know/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-10-28T18:00:00.000Z"
-    },
-    {
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-      "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+      "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
       "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-10-28T17:55:45.000Z"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T17:46:32.000Z"
-    },
-    {
-      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-28T17:37:49.000Z"
+      "publishedAt": "2026-10-28T19:20:36.000Z"
     }
   ]
 }
