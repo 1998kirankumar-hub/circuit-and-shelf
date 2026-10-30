@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-29T23:18:20.422Z",
+  "updatedAt": "2026-10-30T02:59:06.383Z",
   "items": [
+    {
+      "title": "Latest Gemini design comes to all Android devices, app upgrades file generation",
+      "url": "https://9to5google.com/2026/10/29/gemini-design-file-generation/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-10-30T01:01:47.000Z"
+    },
     {
       "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
       "url": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
@@ -77,13 +84,6 @@
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-10-29T20:32:49.000Z"
-    },
-    {
-      "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes",
-      "url": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-10-29T20:21:06.000Z"
     }
   ]
 }
