@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-30T02:59:06.383Z",
+  "updatedAt": "2026-10-30T10:01:46.878Z",
   "items": [
+    {
+      "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+      "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T08:24:55.000Z"
+    },
+    {
+      "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T07:44:26.000Z"
+    },
     {
       "title": "Latest Gemini design comes to all Android devices, app upgrades file generation",
       "url": "https://9to5google.com/2026/10/29/gemini-design-file-generation/",
@@ -51,13 +65,6 @@
       "publishedAt": "2026-10-29T21:36:33.000Z"
     },
     {
-      "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-      "url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T21:18:22.000Z"
-    },
-    {
       "title": "IQOO’s new mid-range phone puts last year’s flagships to shame",
       "url": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
       "source": "9to5Google",
@@ -77,13 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-10-29T20:35:00.000Z"
-    },
-    {
-      "title": "Reddit will force users to log in as AI is killing search traffic",
-      "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T20:32:49.000Z"
     }
   ]
 }
