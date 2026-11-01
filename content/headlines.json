@@ -1,40 +1,47 @@
 {
-  "updatedAt": "2026-11-01T14:17:01.951Z",
+  "updatedAt": "2026-11-01T18:59:08.367Z",
   "items": [
     {
-      "title": "Change these PlayStation 5 settings before GTA 6 comes out",
-      "url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
+      "title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
+      "url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/",
       "source": "Engadget",
       "category": "Technology",
+      "publishedAt": "2026-11-01T17:54:34.000Z"
+    },
+    {
+      "title": "The reason why your Xbox controller still uses AA batteries",
+      "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T17:45:00.000Z"
+    },
+    {
+      "title": "5 nifty ways you can reuse your old laptop",
+      "url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T17:30:00.000Z"
+    },
+    {
+      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T17:17:42.000Z"
+    },
+    {
+      "title": "Here's how to tell which gen AirPods you own",
+      "url": "https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T17:15:00.000Z"
+    },
+    {
+      "title": "Motorola is filling the gap OnePlus left behind, mostly",
+      "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
       "publishedAt": "2026-11-01T14:00:00.000Z"
-    },
-    {
-      "title": "Here's how to know if your TV is too big for any room",
-      "url": "https://www.engadget.com/2300272/how-to-know-tv-too-big-for-any-room/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T13:45:00.000Z"
-    },
-    {
-      "title": "Tesla is ditching its solar roof tiles for a good reason",
-      "url": "https://www.engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T13:30:00.000Z"
-    },
-    {
-      "title": "How to clear the cache on your Android device",
-      "url": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T13:15:00.000Z"
-    },
-    {
-      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
-      "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T00:30:00.000Z"
     },
     {
       "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
@@ -77,13 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-30T22:36:41.000Z"
-    },
-    {
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-30T22:21:05.000Z"
     }
   ]
 }
