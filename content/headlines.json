@@ -1,40 +1,54 @@
 {
-  "updatedAt": "2026-11-01T18:59:08.367Z",
+  "updatedAt": "2026-11-01T22:49:58.829Z",
   "items": [
     {
-      "title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
-      "url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/",
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-01T17:54:34.000Z"
+      "publishedAt": "2026-11-01T21:08:32.000Z"
     },
     {
-      "title": "The reason why your Xbox controller still uses AA batteries",
-      "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-01T17:45:00.000Z"
+      "publishedAt": "2026-11-01T21:00:00.000Z"
     },
     {
-      "title": "5 nifty ways you can reuse your old laptop",
-      "url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T17:30:00.000Z"
+      "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming",
+      "url": "https://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-01T20:44:36.000Z"
     },
     {
-      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-01T17:17:42.000Z"
+      "title": "Google says Googlebook ‘detachables’ are coming soon",
+      "url": "https://9to5google.com/2026/11/01/googlebook-detachables/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-01T20:07:31.000Z"
     },
     {
-      "title": "Here's how to tell which gen AirPods you own",
-      "url": "https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/",
+      "title": "How to know if a USB-C cable is waterproof",
+      "url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-01T17:15:00.000Z"
+      "publishedAt": "2026-11-01T20:00:00.000Z"
+    },
+    {
+      "title": "5 ways to get Amazon Prime for free (or way cheaper)",
+      "url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T19:45:00.000Z"
+    },
+    {
+      "title": "How to turn on the flashlight on your Android phone without unlocking it",
+      "url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T19:30:00.000Z"
     },
     {
       "title": "Motorola is filling the gap OnePlus left behind, mostly",
@@ -70,20 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-10-31T01:20:00.000Z"
-    },
-    {
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-31T00:07:22.000Z"
-    },
-    {
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-30T22:36:41.000Z"
     }
   ]
 }
