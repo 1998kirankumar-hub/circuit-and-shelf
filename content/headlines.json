@@ -1,26 +1,47 @@
 {
-  "updatedAt": "2026-11-03T23:23:53.929Z",
+  "updatedAt": "2026-11-04T03:19:27.461Z",
   "items": [
     {
-      "title": "NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games",
-      "url": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
+      "title": "iPad mini OLED vs. iPad mini: What's new?",
+      "url": "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-03T23:00:21.000Z"
+      "publishedAt": "2026-11-04T01:00:00.000Z"
     },
     {
-      "title": "Here's how to adjust Apple AirPods for small ears",
-      "url": "https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/",
+      "title": "Your phone's apps could have more permissions than they need – here's how to check",
+      "url": "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-03T23:00:00.000Z"
+      "publishedAt": "2026-11-04T00:30:00.000Z"
     },
     {
-      "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
-      "url": "https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/",
+      "title": "Your desktop's front USB ports may be slowing down every device you plug into them",
+      "url": "https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-03T22:43:06.000Z"
+      "publishedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "Arkane and its Blade game may end up at Ubisoft as Xbox considers offers",
+      "url": "https://www.engadget.com/2306118/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T23:32:37.000Z"
+    },
+    {
+      "title": "What made Nothing's CMF Phone 2 Pro so much cheaper than others?",
+      "url": "https://www.engadget.com/2300613/nothing-cmf-phone-2-pro-why-so-much-cheaper/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T23:30:00.000Z"
+    },
+    {
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T22:39:37.000Z"
     },
     {
       "title": "The Sideload 050: The phones Samsung and Google won’t make",
@@ -28,13 +49,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-03T21:30:00.000Z"
-    },
-    {
-      "title": "Reddit is testing in-app search ads as traffic from Google declines",
-      "url": "https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T21:27:50.000Z"
     },
     {
       "title": "Google Messages redesigning pinned chats and moving search",
@@ -49,13 +63,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-03T21:05:00.000Z"
-    },
-    {
-      "title": "What type of battery does the Slate Truck use?",
-      "url": "https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T21:00:00.000Z"
     },
     {
       "title": "ChatGPT has hit roughly 20% of Google Search volume, OpenAI says",
@@ -77,13 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-03T20:35:00.000Z"
-    },
-    {
-      "title": "Corner Shop: NightShift How we Built Horror Around an Ordinary Life",
-      "url": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-11-03T20:00:00.000Z"
     }
   ]
 }
