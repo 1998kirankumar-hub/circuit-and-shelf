@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T02:27:10.279Z",
+  "updatedAt": "2026-11-06T09:54:45.799Z",
   "items": [
+    {
+      "title": "Airbnb is threatening to launch an AI travel agent next year",
+      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-06T07:51:42.000Z"
+    },
     {
       "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
       "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
@@ -77,13 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-05T21:00:00.000Z"
-    },
-    {
-      "title": "A BioWare documentary is set to arrive next year",
-      "url": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-05T20:33:13.000Z"
     }
   ]
 }
