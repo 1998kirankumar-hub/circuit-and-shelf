@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-11-05T21:59:08.982Z",
+  "updatedAt": "2026-11-06T02:27:10.279Z",
   "items": [
+    {
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-06T00:17:06.000Z"
+    },
+    {
+      "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
+      "url": "https://9to5google.com/2026/11/05/googlebook-november-update/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-05T23:41:44.000Z"
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T23:09:36.000Z"
+    },
+    {
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T22:49:03.000Z"
+    },
+    {
+      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
+      "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T22:10:09.000Z"
+    },
+    {
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T21:56:36.000Z"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T21:40:36.000Z"
+    },
     {
       "title": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
       "url": "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/",
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-11-05T21:39:22.000Z"
+    },
+    {
+      "title": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android",
+      "url": "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-05T21:30:00.000Z"
     },
     {
       "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
@@ -28,62 +84,6 @@
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-11-05T20:33:13.000Z"
-    },
-    {
-      "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
-      "url": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-05T20:30:00.000Z"
-    },
-    {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-05T19:59:22.000Z"
-    },
-    {
-      "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
-      "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-05T19:58:23.000Z"
-    },
-    {
-      "title": "The Xbox PC app is getting a speed boost",
-      "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-05T19:52:39.000Z"
-    },
-    {
-      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-05T19:46:37.000Z"
-    },
-    {
-      "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
-      "url": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-05T19:05:00.000Z"
-    },
-    {
-      "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
-      "url": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-05T19:04:24.000Z"
-    },
-    {
-      "title": "Razer is getting back into wired earbuds with USB-C; yes, they have RGB",
-      "url": "https://9to5google.com/2026/11/05/razer-releases-usb-c-earbuds-with-rgb/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-05T19:00:27.000Z"
     }
   ]
 }
