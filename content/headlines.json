@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-06T22:24:54.036Z",
+  "updatedAt": "2026-11-07T02:23:24.568Z",
   "items": [
+    {
+      "title": "Google’s original Nest Doorbell is broken for many right now",
+      "url": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-06T23:15:00.000Z"
+    },
+    {
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-06T23:09:45.000Z"
+    },
+    {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-06T22:41:37.000Z"
+    },
+    {
+      "title": "Android XR glasses officially get a December release date [Video]",
+      "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-06T22:40:00.000Z"
+    },
+    {
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-06T22:08:47.000Z"
+    },
     {
       "title": "Pixelated 124: Is it time for a Nest Hub comeback?",
       "url": "https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/",
@@ -30,25 +65,11 @@
       "publishedAt": "2026-11-06T20:24:20.000Z"
     },
     {
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T20:05:30.000Z"
-    },
-    {
       "title": "Google Health 5.12 rolling out with manual blood pressure & pregnancy logging, more",
       "url": "https://9to5google.com/2026/11/06/google-health-5-12-release-notes/",
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-06T20:01:43.000Z"
-    },
-    {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T19:50:18.000Z"
     },
     {
       "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
@@ -58,32 +79,11 @@
       "publishedAt": "2026-11-06T19:45:23.000Z"
     },
     {
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T19:12:28.000Z"
-    },
-    {
       "title": "Cat-Astrophy: How a Build Can Change Every Expedition",
       "url": "https://news.xbox.com/en-us/2026/11/06/cat-astrophy/",
       "source": "Xbox Wire",
       "category": "Gaming",
       "publishedAt": "2026-11-06T18:30:00.000Z"
-    },
-    {
-      "title": "Discord is about to get way, way faster on your Android phone",
-      "url": "https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-06T18:13:09.000Z"
-    },
-    {
-      "title": "Fox wraps up its $22 billion Roku deal",
-      "url": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T17:20:32.000Z"
     }
   ]
 }
