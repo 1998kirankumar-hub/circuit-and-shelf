@@ -1,40 +1,54 @@
 {
-  "updatedAt": "2026-11-08T02:29:56.466Z",
+  "updatedAt": "2026-11-08T16:21:19.639Z",
   "items": [
     {
-      "title": "Syncing Apple Music across your devices is easier than you think",
-      "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "title": "You can attach your Fitbit Air to almost any old-school watch",
+      "url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-08T01:30:00.000Z"
+      "publishedAt": "2026-11-08T16:00:00.000Z"
     },
     {
-      "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
-      "url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+      "title": "Can PC coolant expire? Here's how long it can last",
+      "url": "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-08T01:00:00.000Z"
+      "publishedAt": "2026-11-08T15:45:00.000Z"
     },
     {
-      "title": "How do spam callers get your number in the first place?",
-      "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+      "title": "These experimental EV batteries can eject themselves during a fire",
+      "url": "https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-08T00:45:00.000Z"
+      "publishedAt": "2026-11-08T15:30:00.000Z"
     },
     {
-      "title": "What does Apple One Family come with and which subscription is best for you?",
-      "url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
+      "title": "Pro Gamers typically don't use OLED monitors, but you most definitely can",
+      "url": "https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-08T00:30:00.000Z"
+      "publishedAt": "2026-11-08T15:15:00.000Z"
     },
     {
-      "title": "10 useful iPad apps that could make your daily life easier",
-      "url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+      "title": "How to set up Google Authenticator on a new phone",
+      "url": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-08T00:15:00.000Z"
+      "publishedAt": "2026-11-08T15:00:00.000Z"
+    },
+    {
+      "title": "Android tablets are back, but are they for you?",
+      "url": "https://9to5google.com/2026/11/08/android-tablets-are-back-poll/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T12:15:31.000Z"
     },
     {
       "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
@@ -70,20 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-06T23:15:00.000Z"
-    },
-    {
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T23:09:45.000Z"
-    },
-    {
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T22:41:37.000Z"
     }
   ]
 }
