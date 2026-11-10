@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-10T00:42:00.493Z",
+  "updatedAt": "2026-11-10T07:45:43.125Z",
   "items": [
+    {
+      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T01:30:00.000Z"
+    },
     {
       "title": "How to turn on personal results on your Google Home",
       "url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
@@ -77,13 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-09T21:13:39.000Z"
-    },
-    {
-      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
-      "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T21:09:51.000Z"
     }
   ]
 }
