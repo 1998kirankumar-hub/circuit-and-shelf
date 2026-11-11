@@ -1,89 +1,89 @@
 {
-  "updatedAt": "2026-11-11T17:28:00.290Z",
+  "updatedAt": "2026-11-11T23:43:27.711Z",
   "items": [
     {
-      "title": "Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more",
-      "url": "https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-11T16:43:11.000Z"
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-11T23:10:17.000Z"
     },
     {
-      "title": "How Luma Island Was Built For Everyone on XBOX Series X|S",
-      "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
+      "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
+      "url": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-11T22:46:07.000Z"
+    },
+    {
+      "title": "Answer the Call This Veterans Day",
+      "url": "https://news.xbox.com/en-us/2026/11/11/answer-the-call-this-veterans-day/",
       "source": "Xbox Wire",
       "category": "Gaming",
-      "publishedAt": "2026-11-11T16:00:00.000Z"
+      "publishedAt": "2026-11-11T20:43:04.000Z"
     },
     {
-      "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
-      "url": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-11T15:50:00.000Z"
-    },
-    {
-      "title": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available",
-      "url": "https://9to5google.com/2026/11/11/buy-pixel-tag/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-11T15:28:54.000Z"
-    },
-    {
-      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
       "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-11-11T15:25:44.000Z"
+      "publishedAt": "2026-11-11T20:32:21.000Z"
     },
     {
-      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
-      "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-11T14:29:03.000Z"
+      "title": "The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900",
+      "url": "https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-11T20:30:00.000Z"
     },
     {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
       "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-11-11T14:08:57.000Z"
+      "publishedAt": "2026-11-11T20:22:03.000Z"
     },
     {
-      "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
-      "url": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
+      "title": "United is restricting AI agents from booking flights",
+      "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-11T20:09:44.000Z"
+    },
+    {
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-11T19:54:55.000Z"
+    },
+    {
+      "title": "ByteDance is reportedly working on its own AI agent",
+      "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-11T19:42:19.000Z"
+    },
+    {
+      "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
+      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
       "source": "9to5Google",
       "category": "Phones & AI",
-      "publishedAt": "2026-11-11T14:00:00.000Z"
+      "publishedAt": "2026-11-11T19:30:00.000Z"
     },
     {
-      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+      "title": "How many SpaceX Starship rocket tests have failed?",
+      "url": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-11T12:59:44.000Z"
+      "publishedAt": "2026-11-11T19:27:00.000Z"
     },
     {
-      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
-      "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-      "source": "Engadget",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-11-11T12:35:10.000Z"
-    },
-    {
-      "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
-      "url": "https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-11T12:35:00.000Z"
-    },
-    {
-      "title": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
-      "url": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
+      "publishedAt": "2026-11-11T19:00:26.000Z"
     }
   ]
 }
