@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-11-12T04:19:59.007Z",
+  "updatedAt": "2026-11-12T13:17:52.195Z",
   "items": [
     {
-      "title": "The Nintendo Switch 2 is down to its lowest price of the season tonight only",
+      "title": "Vindictus: Defying Fate comes to PS5 next year",
+      "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
+      "source": "PlayStation Blog",
+      "category": "Gaming",
+      "publishedAt": "2026-11-12T13:07:48.000Z"
+    },
+    {
+      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-12T12:00:37.000Z"
+    },
+    {
+      "title": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
+      "url": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "title": "Nintendo is ending Google and Apple sign-ins early next year",
+      "url": "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-12T11:19:46.000Z"
+    },
+    {
+      "title": "The Nintendo Switch 2 is down to its lowest price of the season with an early Black Friday deal",
       "url": "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/",
       "source": "9to5Google",
       "category": "Phones & AI",
@@ -56,34 +84,6 @@
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-11-11T20:09:44.000Z"
-    },
-    {
-      "title": "Google brings the Gemini app to Apple CarPlay",
-      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-11T19:54:55.000Z"
-    },
-    {
-      "title": "ByteDance is reportedly working on its own AI agent",
-      "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-11T19:42:19.000Z"
-    },
-    {
-      "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
-      "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-11T19:30:00.000Z"
-    },
-    {
-      "title": "How many SpaceX Starship rocket tests have failed?",
-      "url": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-11T19:27:00.000Z"
     }
   ]
 }
