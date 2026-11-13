@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-12T21:07:29.220Z",
+  "updatedAt": "2026-11-13T01:50:04.019Z",
   "items": [
+    {
+      "title": "Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
+      "source": "Xbox Wire",
+      "category": "Gaming",
+      "publishedAt": "2026-11-13T01:00:00.000Z"
+    },
+    {
+      "title": "Bethesda Celebrates XBOX 25 with id Software & MachineGames News",
+      "url": "https://news.xbox.com/en-us/2026/11/12/bethesda-celebrates-xbox-25-with-id-software-machinegames-news/",
+      "source": "Xbox Wire",
+      "category": "Gaming",
+      "publishedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+      "url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-12T23:32:00.000Z"
+    },
+    {
+      "title": "Once Human: Season 5 gameplay showcases co-op Colossus boss battle, live November 18",
+      "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
+      "source": "PlayStation Blog",
+      "category": "Gaming",
+      "publishedAt": "2026-11-12T23:00:19.000Z"
+    },
+    {
+      "title": "Available for XBOX Insiders: More Ways to Personalize Your Home, Library, and Guide",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1/",
+      "source": "Xbox Wire",
+      "category": "Gaming",
+      "publishedAt": "2026-11-12T23:00:01.000Z"
+    },
+    {
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-12T22:59:51.000Z"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-12T22:28:47.000Z"
+    },
+    {
+      "title": "Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag",
+      "url": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-12T22:05:00.000Z"
+    },
+    {
+      "title": "Candy Crush Saga Gives Halo, Fallout, Forza and More a Sweet Makeover for XBOX’s 25th",
+      "url": "https://news.xbox.com/en-us/2026/11/12/candy-crush-saga-game-on-halo-fallout-sea-of-thieves-xbox-25/",
+      "source": "Xbox Wire",
+      "category": "Gaming",
+      "publishedAt": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "title": "Google rolling out Android 17 QPR3 Beta 4 for Pixel",
+      "url": "https://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-12T21:16:09.000Z"
+    },
     {
       "title": "25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility",
       "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
@@ -9,81 +79,11 @@
       "publishedAt": "2026-11-12T21:02:29.000Z"
     },
     {
-      "title": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
-      "url": "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-11-12T20:00:00.000Z"
-    },
-    {
       "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-12T19:59:59.000Z"
-    },
-    {
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T19:49:11.000Z"
-    },
-    {
-      "title": "Who is Collette Kress, NVIDIA's interim CEO?",
-      "url": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T19:26:47.000Z"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T19:23:03.000Z"
-    },
-    {
-      "title": "Multiple Microsoft 365 services are experiencing an outage",
-      "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T19:17:32.000Z"
-    },
-    {
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T19:09:57.000Z"
-    },
-    {
-      "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
-      "url": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-11-12T19:00:00.000Z"
-    },
-    {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T18:57:45.000Z"
-    },
-    {
-      "title": "Pebblebee’s latest Android Find Hub trackers try some festive colors, but fall short on sparkle",
-      "url": "https://9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-12T18:45:00.000Z"
-    },
-    {
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-12T18:01:41.000Z"
     }
   ]
 }
