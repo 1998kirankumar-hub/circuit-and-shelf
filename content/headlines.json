@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-14T03:16:46.340Z",
+  "updatedAt": "2026-11-14T10:38:40.121Z",
   "items": [
+    {
+      "title": "Outage at HR platform Workday locks millions of employees out of their account",
+      "url": "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T08:54:55.000Z"
+    },
+    {
+      "title": "FAA allows flights to resume after hours-long ground stop across the US",
+      "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T06:35:40.000Z"
+    },
     {
       "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
       "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
@@ -70,20 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-13T19:30:00.000Z"
-    },
-    {
-      "title": "Google now lets people connect Gemini to their bank accounts",
-      "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T19:15:32.000Z"
-    },
-    {
-      "title": "Fable: Deep Dive Into New Gameplay With Playground Games | Official XBOX Podcast",
-      "url": "https://news.xbox.com/en-us/2026/11/13/fable-deep-dive-into-new-gameplay-with-playground-games-official-xbox-podcast/",
-      "source": "Xbox Wire",
-      "category": "Gaming",
-      "publishedAt": "2026-11-13T19:13:42.000Z"
     }
   ]
 }
