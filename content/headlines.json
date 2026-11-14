@@ -1,19 +1,54 @@
 {
-  "updatedAt": "2026-11-14T10:38:40.121Z",
+  "updatedAt": "2026-11-14T16:43:40.966Z",
   "items": [
     {
-      "title": "Outage at HR platform Workday locks millions of employees out of their account",
-      "url": "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/",
+      "title": "Here's how much Apple AirPods cost in 2016 vs. 2026",
+      "url": "https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T08:54:55.000Z"
+      "publishedAt": "2026-11-14T16:30:00.000Z"
     },
     {
-      "title": "FAA allows flights to resume after hours-long ground stop across the US",
-      "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+      "title": "Whatever happened to Sony Xperia phones?",
+      "url": "https://www.engadget.com/2311608/sony-xperia-phones-what-happened/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T06:35:40.000Z"
+      "publishedAt": "2026-11-14T16:15:00.000Z"
+    },
+    {
+      "title": "What the circled \"Z\" on Google Maps means",
+      "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T16:00:00.000Z"
+    },
+    {
+      "title": "Sodium vs. lithium-ion batteries: What's the difference between them?",
+      "url": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T15:45:00.000Z"
+    },
+    {
+      "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
+      "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T15:30:00.000Z"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:15:48.000Z"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:05:51.000Z"
     },
     {
       "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
@@ -37,13 +72,6 @@
       "publishedAt": "2026-11-13T23:17:38.000Z"
     },
     {
-      "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
-      "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T22:50:13.000Z"
-    },
-    {
       "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
       "url": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
       "source": "9to5Google",
@@ -56,34 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-13T21:59:01.000Z"
-    },
-    {
-      "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
-      "url": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-13T21:23:59.000Z"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T21:20:47.000Z"
-    },
-    {
-      "title": "In elephants, the resilience of communities has its limits",
-      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T20:03:13.000Z"
-    },
-    {
-      "title": "Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale",
-      "url": "https://9to5google.com/2026/11/13/motorola-ma2-android-auto-amazon-delay/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-13T19:30:00.000Z"
     }
   ]
 }
