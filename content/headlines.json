@@ -1,40 +1,54 @@
 {
-  "updatedAt": "2026-11-14T20:57:11.072Z",
+  "updatedAt": "2026-11-15T01:03:44.675Z",
   "items": [
     {
-      "title": "Is your car tracking your location? Here's how to check and opt out",
-      "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T20:30:00.000Z"
+      "publishedAt": "2026-11-15T00:45:00.000Z"
     },
     {
-      "title": "This built-in Windows tool can diagnose your PC's battery health",
-      "url": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
-      "source": "Engadget",
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-11-14T20:15:00.000Z"
+      "publishedAt": "2026-11-15T00:40:59.000Z"
     },
     {
-      "title": "Change these Fitbit Edge settings for a better experience",
-      "url": "https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T20:00:00.000Z"
+      "publishedAt": "2026-11-15T00:30:00.000Z"
     },
     {
-      "title": "How much did home internet cost in 2001 vs 2026?",
-      "url": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
+      "title": "11 gadgets under $10 that solve everyday problems",
+      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T19:45:00.000Z"
+      "publishedAt": "2026-11-15T00:15:00.000Z"
     },
     {
-      "title": "That key left of '1' on many keyboards is actually crucial for programmers",
-      "url": "https://www.engadget.com/2309616/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-14T19:30:00.000Z"
+      "publishedAt": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
+      "url": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T23:45:00.000Z"
+    },
+    {
+      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
+      "url": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-14T23:00:00.000Z"
     },
     {
       "title": "James Webb telescope finds ice older than the star it orbits",
@@ -70,20 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-13T23:17:38.000Z"
-    },
-    {
-      "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
-      "url": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-13T22:00:00.000Z"
-    },
-    {
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T21:59:01.000Z"
     }
   ]
 }
