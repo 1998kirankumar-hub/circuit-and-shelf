@@ -1,40 +1,47 @@
 {
-  "updatedAt": "2026-11-15T15:40:03.639Z",
+  "updatedAt": "2026-11-15T20:35:43.597Z",
   "items": [
     {
-      "title": "How much electricity does your home sound system typically use?",
-      "url": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
+      "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
+      "url": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T15:15:00.000Z"
+      "publishedAt": "2026-11-15T20:19:05.000Z"
     },
     {
-      "title": "Why your laptop fans spin up even when you're not doing anything",
-      "url": "https://www.engadget.com/2313693/laptop-fans-spin-up-not-doing-anything-why/",
+      "title": "How you can give your old Apple TV new purpose",
+      "url": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T15:00:00.000Z"
+      "publishedAt": "2026-11-15T20:15:00.000Z"
     },
     {
-      "title": "How long will your NVIDIA GPU be supported?",
-      "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
+      "title": "What's the meaning of the \"A\" on your USB-A ports?",
+      "url": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T14:45:00.000Z"
+      "publishedAt": "2026-11-15T20:00:00.000Z"
     },
     {
-      "title": "These are some of the strongest 3D printer filaments for durable parts",
-      "url": "https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/",
+      "title": "Sony is ditching its cross-product support app for dedicated alternatives",
+      "url": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T14:30:00.000Z"
+      "publishedAt": "2026-11-15T19:45:00.000Z"
     },
     {
-      "title": "Why did Google Pixels stop using Snapdragon chips?",
-      "url": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+      "title": "How to change and customize your app icons on Samsung Galaxy",
+      "url": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T14:15:00.000Z"
+      "publishedAt": "2026-11-15T19:30:00.000Z"
+    },
+    {
+      "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+      "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+      "source": "Xbox Wire",
+      "category": "Gaming",
+      "publishedAt": "2026-11-15T17:01:00.000Z"
     },
     {
       "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
@@ -77,13 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-14T12:05:51.000Z"
-    },
-    {
-      "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
-      "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-14T01:15:00.000Z"
     }
   ]
 }
