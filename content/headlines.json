@@ -1,19 +1,54 @@
 {
-  "updatedAt": "2026-11-15T07:52:14.055Z",
+  "updatedAt": "2026-11-15T15:40:03.639Z",
   "items": [
     {
-      "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
-      "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+      "title": "How much electricity does your home sound system typically use?",
+      "url": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T01:00:00.000Z"
+      "publishedAt": "2026-11-15T15:15:00.000Z"
     },
     {
-      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
-      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "title": "Why your laptop fans spin up even when you're not doing anything",
+      "url": "https://www.engadget.com/2313693/laptop-fans-spin-up-not-doing-anything-why/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T00:45:00.000Z"
+      "publishedAt": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "title": "How long will your NVIDIA GPU be supported?",
+      "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T14:45:00.000Z"
+    },
+    {
+      "title": "These are some of the strongest 3D printer filaments for durable parts",
+      "url": "https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T14:30:00.000Z"
+    },
+    {
+      "title": "Why did Google Pixels stop using Snapdragon chips?",
+      "url": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T14:15:00.000Z"
+    },
+    {
+      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+      "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T12:07:34.000Z"
     },
     {
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -21,27 +56,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-15T00:40:59.000Z"
-    },
-    {
-      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
-      "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-15T00:30:00.000Z"
-    },
-    {
-      "title": "11 gadgets under $10 that solve everyday problems",
-      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-15T00:15:00.000Z"
-    },
-    {
-      "title": "There's a hidden way you can check which services are running on your Android phone",
-      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-15T00:00:00.000Z"
     },
     {
       "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
@@ -70,20 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-14T01:15:00.000Z"
-    },
-    {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-14T00:49:13.000Z"
-    },
-    {
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T23:17:38.000Z"
     }
   ]
 }
