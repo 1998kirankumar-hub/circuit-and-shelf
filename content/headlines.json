@@ -1,40 +1,54 @@
 {
-  "updatedAt": "2026-11-15T20:35:43.597Z",
+  "updatedAt": "2026-11-16T00:23:26.245Z",
   "items": [
     {
-      "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
-      "url": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
+      "title": "10 things your iPhone's Notes app can do other than taking notes",
+      "url": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T20:19:05.000Z"
+      "publishedAt": "2026-11-16T00:15:00.000Z"
     },
     {
-      "title": "How you can give your old Apple TV new purpose",
-      "url": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
+      "title": "What causes a sudden drop in phone battery percentage?",
+      "url": "https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T20:15:00.000Z"
+      "publishedAt": "2026-11-16T00:00:00.000Z"
     },
     {
-      "title": "What's the meaning of the \"A\" on your USB-A ports?",
-      "url": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
+      "title": "Here's what actually happens if your laptop battery is completely drained",
+      "url": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T20:00:00.000Z"
+      "publishedAt": "2026-11-15T23:45:00.000Z"
     },
     {
-      "title": "Sony is ditching its cross-product support app for dedicated alternatives",
-      "url": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
+      "title": "Why your Wi-Fi slows down when more devices connect",
+      "url": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T19:45:00.000Z"
+      "publishedAt": "2026-11-15T23:30:00.000Z"
     },
     {
-      "title": "How to change and customize your app icons on Samsung Galaxy",
-      "url": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T23:11:54.000Z"
+    },
+    {
+      "title": "How long can a 1000 watt-hour power station run your devices?",
+      "url": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-15T19:30:00.000Z"
+      "publishedAt": "2026-11-15T23:00:00.000Z"
+    },
+    {
+      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
+      "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-15T21:36:43.000Z"
     },
     {
       "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
@@ -70,20 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-14T23:00:00.000Z"
-    },
-    {
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-14T12:15:48.000Z"
-    },
-    {
-      "title": "Winemakers are learning that conservation can be good for business",
-      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-14T12:05:51.000Z"
     }
   ]
 }
