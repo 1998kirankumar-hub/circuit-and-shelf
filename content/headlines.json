@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-19T23:52:11.848Z",
+  "updatedAt": "2026-11-20T07:16:11.639Z",
   "items": [
+    {
+      "title": "Uber Kids will let parents book trips for their children aged 10 to 12 years old",
+      "url": "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-20T06:27:26.000Z"
+    },
+    {
+      "title": "Google's latest home page redesign makes Gemini even more prominent",
+      "url": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-20T05:45:38.000Z"
+    },
+    {
+      "title": "Samsung’s mobile division has someone new in charge for the first time in years",
+      "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-20T01:35:00.000Z"
+    },
+    {
+      "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+      "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-20T00:03:22.000Z"
+    },
     {
       "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
       "url": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
@@ -21,13 +49,6 @@
       "source": "Engadget",
       "category": "Technology",
       "publishedAt": "2026-11-19T23:13:40.000Z"
-    },
-    {
-      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
-      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-19T22:56:42.000Z"
     },
     {
       "title": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
@@ -63,27 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-19T21:17:24.000Z"
-    },
-    {
-      "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
-      "url": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-19T21:06:58.000Z"
-    },
-    {
-      "title": "Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals",
-      "url": "https://9to5google.com/2026/11/19/give-your-eyes-and-wallet-the-break-they-need-with-these-tcl-nxtpaper-black-friday-deals/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-19T20:43:37.000Z"
-    },
-    {
-      "title": "You can now purchase the 512GB Steam Machine like a normal console",
-      "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-19T20:42:38.000Z"
     }
   ]
 }
