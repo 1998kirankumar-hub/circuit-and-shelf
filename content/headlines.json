@@ -1,26 +1,61 @@
 {
-  "updatedAt": "2026-11-21T03:29:59.052Z",
+  "updatedAt": "2026-11-21T19:15:53.399Z",
   "items": [
+    {
+      "title": "Which car has the largest infotainment touchscreen?",
+      "url": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T19:00:00.000Z"
+    },
+    {
+      "title": "Six simple Raspberry Pi projects for beginners",
+      "url": "https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T18:45:00.000Z"
+    },
+    {
+      "title": "How to use a solar panel to charge your phone",
+      "url": "https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T18:30:00.000Z"
+    },
+    {
+      "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
+      "url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T18:29:20.000Z"
+    },
+    {
+      "title": "How much can you get for your old, discontinued Apple Watch?",
+      "url": "https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T18:15:00.000Z"
+    },
+    {
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-21T17:00:00.000Z"
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-21T12:01:13.000Z"
+    },
     {
       "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
       "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-21T02:45:00.000Z"
-    },
-    {
-      "title": "Why you shouldn't depend on GTA 6 to auto-save",
-      "url": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T23:48:00.000Z"
-    },
-    {
-      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
-      "url": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T23:40:10.000Z"
     },
     {
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
@@ -37,13 +72,6 @@
       "publishedAt": "2026-11-20T22:16:51.000Z"
     },
     {
-      "title": "The Internet Archive's workers are unionizing",
-      "url": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T22:15:03.000Z"
-    },
-    {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
       "source": "Ars Technica",
@@ -51,39 +79,11 @@
       "publishedAt": "2026-11-20T21:58:29.000Z"
     },
     {
-      "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
-      "url": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T21:50:12.000Z"
-    },
-    {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-20T21:47:10.000Z"
-    },
-    {
-      "title": "Pixelated 126: Schrödinger’s DoorDash notification",
-      "url": "https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-20T21:30:00.000Z"
-    },
-    {
-      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
-      "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T21:02:54.000Z"
-    },
-    {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T20:59:08.000Z"
     }
   ]
 }
