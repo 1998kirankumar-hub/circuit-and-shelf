@@ -7,6 +7,7 @@ const posts = JSON.parse(fs.readFileSync(path.join(ROOT,'content/articles.json')
 const rawUrl = process.env.SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : '');
 const SITE_URL = rawUrl ? rawUrl.replace(/\/$/,'') : '';
 const SITE_NAME = 'Circuit & Shelf';
+const BASE_PATH = (process.env.SITE_BASE_PATH || '').replace(/\/$/, '');
 const escape = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#39;');
 const link = (pathName) => `${SITE_URL}${pathName}`;
 const articlePath = p => `/articles/${p.slug}/`;
@@ -82,7 +83,9 @@ const pages=[
 ];
 
 fs.rmSync(OUT,{recursive:true,force:true});fs.mkdirSync(OUT,{recursive:true});
-const emit=(relative,data)=>{const file=path.join(OUT,relative);fs.mkdirSync(path.dirname(file),{recursive:true});fs.writeFileSync(file,data);};
+const emit=(relative,data)=>{
+  if(BASE_PATH && relative.endsWith('.html')) data = data.replace(/\b(href|src)=([\"'])\/(?!\/)/g,(_,attr,quote)=>`${attr}=${quote}${BASE_PATH}/`);
+  const file=path.join(OUT,relative);fs.mkdirSync(path.dirname(file),{recursive:true});fs.writeFileSync(file,data);};
 emit('index.html',renderHome());
 for(const post of posts)emit(path.join('articles',post.slug,'index.html'),renderArticle(post));
 for(const page of pages)emit(path.join(page.slug,'index.html'),staticPage(page));
@@ -90,5 +93,6 @@ fs.mkdirSync(path.join(OUT,'assets'),{recursive:true});
 for(const f of fs.readdirSync(path.join(ROOT,'assets')))fs.copyFileSync(path.join(ROOT,'assets',f),path.join(OUT,'assets',f));
 for(const f of fs.readdirSync(path.join(ROOT,'public')))fs.copyFileSync(path.join(ROOT,'public',f),path.join(OUT,f));
 if(SITE_URL){const urls=['/',...posts.map(articlePath),...pages.map(p=>`/${p.slug}/`)];emit('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(p=>`\n<url><loc>${escape(link(p))}</loc></url>`).join('')}\n</urlset>`);emit('robots.txt',`User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);emit('feed.xml',`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>${SITE_NAME}</title><link>${SITE_URL}/</link><description>Clear-eyed gaming, gear and gadget buying guides.</description>${posts.map(p=>`<item><title>${escape(p.title)}</title><link>${link(articlePath(p))}</link><guid>${link(articlePath(p))}</guid><pubDate>${new Date(p.date+'T12:00:00Z').toUTCString()}</pubDate><description>${escape(p.description)}</description></item>`).join('')}</channel></rss>`)}else{emit('robots.txt','User-agent: *\nAllow: /\n');console.warn('SITE_URL not set; canonical URLs, sitemap.xml and RSS feed are deferred until deployment URL is known.');}
+emit('.nojekyll','');
 emit('404.html',layout({title:'Page not found',description:'That page is not on this shelf.',content:`<div class="not-found shell"><span>404 / WRONG TURN</span><h1>Not on this <em>shelf.</em></h1><p>This page may have moved, or the link may be incorrect.</p><a class="primary-cta" href="/">Back to the homepage ${svgIcon('arrow')}</a></div>`,pathname:'/404/'}));
 console.log(`Built ${posts.length} articles, ${pages.length} information pages, homepage and static assets → ${OUT}`);

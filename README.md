@@ -49,3 +49,7 @@ Site copy and graphics: All rights reserved to the site owner, subject to verifi
 ## Headline automation
 
 Read [AUTO-HEADLINES.md](AUTO-HEADLINES.md). Scheduled GitHub Actions checks publisher RSS feeds roughly every 30 minutes; the homepage requests latest public JSON from the GitHub raw endpoint, separate from our manually edited articles. GitHub schedules can be delayed and the RSS publishers can have outages.
+
+## Public preview and production hosting
+
+A separate GitHub Actions workflow (`.github/workflows/publish-preview.yml`) builds a **temporary preview** at `https://1998kirankumar-hub.github.io/circuit-and-shelf/` when GitHub Pages is enabled. The workflow attempts initial enablement automatically, but repository settings may require the account owner to enable Pages and select **GitHub Actions** as the source. GitHub Pages is a staging preview, **not** the monetized production host: GitHub restricts use of Pages as a service to run an online business. For production connect this repository to Cloudflare Pages, set the build command to `npm run build` and the output directory to `dist`; configure `SITE_URL` to the production origin. News feed commits are excluded from preview rebuilds.
