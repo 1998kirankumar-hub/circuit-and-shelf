@@ -4,7 +4,7 @@ import path from 'node:path';
 const ROOT = process.cwd();
 const OUT = path.join(ROOT,'dist');
 const posts = JSON.parse(fs.readFileSync(path.join(ROOT,'content/articles.json'),'utf8'));
-const rawUrl = process.env.SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : '');
+const rawUrl = process.env.SITE_URL || process.env.CF_PAGES_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : '');
 const SITE_URL = rawUrl ? rawUrl.replace(/\/$/,'') : '';
 const SITE_NAME = 'Circuit & Shelf';
 const BASE_PATH = (process.env.SITE_BASE_PATH || '').replace(/\/$/, '');
