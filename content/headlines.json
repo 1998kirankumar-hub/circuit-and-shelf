@@ -1,26 +1,47 @@
 {
-  "updatedAt": "2026-11-22T15:17:11.536Z",
+  "updatedAt": "2026-11-22T21:17:23.975Z",
   "items": [
     {
-      "title": "Why you should never vacuum the inside of your computer",
-      "url": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-22T15:00:00.000Z"
+      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+      "url": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-22T21:12:41.000Z"
     },
     {
-      "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
-      "url": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
+      "title": "How Secure Is Your Password? Here's How To Test It",
+      "url": "https://www.engadget.com/2319522/how-secure-is-password/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T14:45:00.000Z"
+      "publishedAt": "2026-11-22T21:00:00.000Z"
     },
     {
-      "title": "Can you completely remove One UI from a Samsung phone?",
-      "url": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
+      "title": "These iOS settings will help you control your mobile data use",
+      "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T14:30:00.000Z"
+      "publishedAt": "2026-11-22T20:45:00.000Z"
+    },
+    {
+      "title": "What the tiny key icon means on your Android device",
+      "url": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-22T20:30:00.000Z"
+    },
+    {
+      "title": "You don't need a foldable phone to use split screen on Android",
+      "url": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-22T20:15:00.000Z"
+    },
+    {
+      "title": "The advantages of using a USB-C docking station",
+      "url": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-22T20:00:00.000Z"
     },
     {
       "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
@@ -28,20 +49,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-22T14:26:51.000Z"
-    },
-    {
-      "title": "The purpose of the SC port on your old laptop",
-      "url": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-22T14:15:00.000Z"
-    },
-    {
-      "title": "Common reasons why some USB ports are red",
-      "url": "https://www.engadget.com/2319349/common-reasons-why-usb-ports-red/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-22T14:00:00.000Z"
     },
     {
       "title": "The Google Home app is better than Nest alone ever was, mostly",
@@ -77,13 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-21T17:00:00.000Z"
-    },
-    {
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-21T12:01:13.000Z"
     }
   ]
 }
