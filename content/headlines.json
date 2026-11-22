@@ -1,40 +1,61 @@
 {
-  "updatedAt": "2026-11-22T06:48:42.224Z",
+  "updatedAt": "2026-11-22T15:17:11.536Z",
   "items": [
     {
-      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
-      "url": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+      "title": "Why you should never vacuum the inside of your computer",
+      "url": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T01:00:00.000Z"
+      "publishedAt": "2026-11-22T15:00:00.000Z"
     },
     {
-      "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
-      "url": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+      "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
+      "url": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T01:00:00.000Z"
+      "publishedAt": "2026-11-22T14:45:00.000Z"
     },
     {
-      "title": "This is what can happen if too many devices are sharing your home network",
-      "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+      "title": "Can you completely remove One UI from a Samsung phone?",
+      "url": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T00:45:00.000Z"
+      "publishedAt": "2026-11-22T14:30:00.000Z"
     },
     {
-      "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
-      "url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-22T00:30:00.000Z"
+      "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
+      "url": "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-22T14:26:51.000Z"
     },
     {
-      "title": "10 things you should never do on your Android phone",
-      "url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+      "title": "The purpose of the SC port on your old laptop",
+      "url": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
       "source": "Engadget",
       "category": "Technology",
-      "publishedAt": "2026-11-22T00:15:00.000Z"
+      "publishedAt": "2026-11-22T14:15:00.000Z"
+    },
+    {
+      "title": "Common reasons why some USB ports are red",
+      "url": "https://www.engadget.com/2319349/common-reasons-why-usb-ports-red/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "title": "The Google Home app is better than Nest alone ever was, mostly",
+      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-22T12:07:41.000Z"
     },
     {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -63,27 +84,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-21T12:01:13.000Z"
-    },
-    {
-      "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
-      "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-21T02:45:00.000Z"
-    },
-    {
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T22:28:24.000Z"
-    },
-    {
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-20T22:16:51.000Z"
     }
   ]
 }
