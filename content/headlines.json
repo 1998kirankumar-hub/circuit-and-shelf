@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-25T20:12:24.603Z",
+  "updatedAt": "2026-11-26T02:51:34.203Z",
   "items": [
+    {
+      "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+      "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T23:36:46.000Z"
+    },
+    {
+      "title": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors",
+      "url": "https://9to5google.com/2026/11/25/googles-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-25T23:35:00.000Z"
+    },
+    {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T22:36:45.000Z"
+    },
+    {
+      "title": "Motorola Signature 27 hands-on: Pure elegance on display",
+      "url": "https://9to5google.com/2026/11/25/motorola-signature-27-hands-on/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-25T22:12:17.000Z"
+    },
+    {
+      "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+      "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T22:07:07.000Z"
+    },
+    {
+      "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
+      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-25T21:50:00.000Z"
+    },
+    {
+      "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
+      "url": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T21:41:43.000Z"
+    },
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T20:57:09.000Z"
+    },
+    {
+      "title": "9to5Google’s Best of 2026",
+      "url": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
+      "source": "9to5Google",
+      "category": "Phones & AI",
+      "publishedAt": "2026-11-25T20:29:37.000Z"
+    },
+    {
+      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+      "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T20:04:07.000Z"
+    },
     {
       "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
       "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
@@ -14,76 +84,6 @@
       "source": "9to5Google",
       "category": "Phones & AI",
       "publishedAt": "2026-11-25T19:15:00.000Z"
-    },
-    {
-      "title": "‘Enough Phone’ is stuffing a bigger battery, more RAM & storage into its small Android phone at no extra cost",
-      "url": "https://9to5google.com/2026/11/25/enough-phone-ram-storage-battery-upgrades/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T19:10:00.000Z"
-    },
-    {
-      "title": "Hello Weather is the best Apple Weather app on Android",
-      "url": "https://9to5google.com/2026/11/25/hello-weather-android-apple/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T18:44:03.000Z"
-    },
-    {
-      "title": "Backblaze explains why it's sharing customer information with advertisers",
-      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T18:38:29.000Z"
-    },
-    {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T18:22:38.000Z"
-    },
-    {
-      "title": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
-      "url": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T17:54:07.000Z"
-    },
-    {
-      "title": "Save serious money with RedPocket Mobile’s $5 Black Friday plans",
-      "url": "https://9to5google.com/2026/11/25/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T17:41:47.000Z"
-    },
-    {
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T17:33:30.000Z"
-    },
-    {
-      "title": "WhatsApp officially adds scheduled messages, and the rollout is scheduled too",
-      "url": "https://9to5google.com/2026/11/25/whatsapp-officially-adds-scheduled-messages-and-the-rollout-is-scheduled-too/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T17:30:00.000Z"
-    },
-    {
-      "title": "Etsy clarifies AI terms after seller backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T17:12:57.000Z"
-    },
-    {
-      "title": "WhatsApp is finally offering scheduled messages",
-      "url": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T16:54:10.000Z"
     }
   ]
 }
