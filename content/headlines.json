@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-26T02:51:34.203Z",
+  "updatedAt": "2026-11-26T12:34:49.153Z",
   "items": [
+    {
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T12:15:42.000Z"
+    },
+    {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T12:00:14.000Z"
+    },
+    {
+      "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+      "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T11:01:32.000Z"
+    },
+    {
+      "title": "X is adding its first-ever parental controls",
+      "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T09:26:24.000Z"
+    },
+    {
+      "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+      "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T07:28:21.000Z"
+    },
+    {
+      "title": "New York state bans AI chatbot toys for kids",
+      "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+      "source": "Engadget",
+      "category": "Technology",
+      "publishedAt": "2026-11-26T06:02:48.000Z"
+    },
     {
       "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
       "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
@@ -30,13 +72,6 @@
       "publishedAt": "2026-11-25T22:12:17.000Z"
     },
     {
-      "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
-      "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T22:07:07.000Z"
-    },
-    {
       "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
       "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
       "source": "9to5Google",
@@ -44,46 +79,11 @@
       "publishedAt": "2026-11-25T21:50:00.000Z"
     },
     {
-      "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
-      "url": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T21:41:43.000Z"
-    },
-    {
       "title": "Google search alternative Kagi launches Gmail rival",
       "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-25T20:57:09.000Z"
-    },
-    {
-      "title": "9to5Google’s Best of 2026",
-      "url": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T20:29:37.000Z"
-    },
-    {
-      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
-      "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T20:04:07.000Z"
-    },
-    {
-      "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
-      "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
-      "source": "Engadget",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T20:01:08.000Z"
-    },
-    {
-      "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
-      "url": "https://9to5google.com/2026/11/25/old-galaxy-phones-are-a-better-deal-heres-what-you-should-buy/",
-      "source": "9to5Google",
-      "category": "Phones & AI",
-      "publishedAt": "2026-11-25T19:15:00.000Z"
     }
   ]
 }
